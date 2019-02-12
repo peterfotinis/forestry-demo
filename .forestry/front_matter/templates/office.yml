@@ -1,0 +1,8 @@
+---
+label: Office
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  name: address
+  label: Address
