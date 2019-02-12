@@ -15,3 +15,5 @@ fields:
       type: documents
       section: people
   label: Office
+pages:
+- _adviser/dsfafsd.md
