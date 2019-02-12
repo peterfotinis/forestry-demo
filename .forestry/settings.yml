@@ -11,6 +11,8 @@ sections:
   label: Advisers
   create: all
   match: "**/*"
+  templates:
+  - adviser
 - type: jekyll-posts
   label: Posts
   create: all
