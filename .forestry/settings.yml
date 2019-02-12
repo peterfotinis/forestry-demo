@@ -13,6 +13,13 @@ sections:
   match: "**/*"
   templates:
   - adviser
+- type: directory
+  path: _offices
+  label: Offices
+  create: documents
+  match: "*"
+  templates:
+  - office
 - type: jekyll-posts
   label: Posts
   create: all
